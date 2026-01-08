@@ -1,18 +1,18 @@
 {
     "emocoes": {
-        "neutral": 4753,
-        "angry": 472,
-        "fear": 40,
-        "sad": 146,
-        "happy": 543,
-        "surprise": 185
+        "neutral": 4880,
+        "happy": 416,
+        "fear": 83,
+        "sad": 140,
+        "surprise": 193,
+        "angry": 426
     },
     "acoes": {
         "EM PE": 1076,
-        "SENTADO": 4340,
+        "SENTADO": 4338,
         "CAMINHANDO": 58,
         "CORRENDO": 58,
-        "MAOS PARA CIMA": 73,
+        "MAOS PARA CIMA": 74,
         "DEITADO": 534
     },
     "frames": 3326,
@@ -77,5 +77,2120 @@
         51,
         53,
         54
+    ],
+    "anomalias": 352,
+    "anomalias_por_frame": [
+        {
+            "frame": 6,
+            "track_id": 3,
+            "action": "EM PE",
+            "speed": 2.484375
+        },
+        {
+            "frame": 22,
+            "track_id": 1,
+            "action": "EM PE",
+            "speed": 3.975006103515625
+        },
+        {
+            "frame": 22,
+            "track_id": 4,
+            "action": "EM PE",
+            "speed": 9.9375
+        },
+        {
+            "frame": 25,
+            "track_id": 2,
+            "action": "EM PE",
+            "speed": 5.96246337890625
+        },
+        {
+            "frame": 30,
+            "track_id": 3,
+            "action": "SENTADO",
+            "speed": 9.275001525878906
+        },
+        {
+            "frame": 49,
+            "track_id": 1,
+            "action": "SENTADO",
+            "speed": 0.9937744140625
+        },
+        {
+            "frame": 53,
+            "track_id": 1,
+            "action": "SENTADO",
+            "speed": 10.9312744140625
+        },
+        {
+            "frame": 58,
+            "track_id": 4,
+            "action": "EM PE",
+            "speed": 14.57501220703125
+        },
+        {
+            "frame": 64,
+            "track_id": 2,
+            "action": "EM PE",
+            "speed": 16.5625
+        },
+        {
+            "frame": 65,
+            "track_id": 3,
+            "action": "SENTADO",
+            "speed": 7.287498474121094
+        },
+        {
+            "frame": 66,
+            "track_id": 2,
+            "action": "SENTADO",
+            "speed": 4.63751220703125
+        },
+        {
+            "frame": 66,
+            "track_id": 4,
+            "action": "SENTADO",
+            "speed": 1.98748779296875
+        },
+        {
+            "frame": 71,
+            "track_id": 4,
+            "action": "SENTADO",
+            "speed": 10.26873779296875
+        },
+        {
+            "frame": 75,
+            "track_id": 4,
+            "action": "EM PE",
+            "speed": 2.98126220703125
+        },
+        {
+            "frame": 93,
+            "track_id": 2,
+            "action": "SENTADO",
+            "speed": 14.073280334472656
+        },
+        {
+            "frame": 111,
+            "track_id": 2,
+            "action": "SENTADO",
+            "speed": 20.44379234313965
+        },
+        {
+            "frame": 112,
+            "track_id": 2,
+            "action": "SENTADO",
+            "speed": 21.73162078857422
+        },
+        {
+            "frame": 117,
+            "track_id": 4,
+            "action": "SENTADO",
+            "speed": 18.293874740600586
+        },
+        {
+            "frame": 124,
+            "track_id": 4,
+            "action": "SENTADO",
+            "speed": 22.767257690429688
+        },
+        {
+            "frame": 138,
+            "track_id": 1,
+            "action": "EM PE",
+            "speed": 12.79499340057373
+        },
+        {
+            "frame": 143,
+            "track_id": 7,
+            "action": "EM PE",
+            "speed": 20.028993606567383
+        },
+        {
+            "frame": 147,
+            "track_id": 7,
+            "action": "EM PE",
+            "speed": 22.605213165283203
+        },
+        {
+            "frame": 149,
+            "track_id": 1,
+            "action": "EM PE",
+            "speed": 13.249969482421875
+        },
+        {
+            "frame": 149,
+            "track_id": 7,
+            "action": "CAMINHANDO",
+            "speed": 9.94301986694336
+        },
+        {
+            "frame": 149,
+            "track_id": 4,
+            "action": "CORRENDO",
+            "speed": 211.16868591308594
+        },
+        {
+            "frame": 151,
+            "track_id": 7,
+            "action": "CAMINHANDO",
+            "speed": 39.79965591430664
+        },
+        {
+            "frame": 153,
+            "track_id": 7,
+            "action": "SENTADO",
+            "speed": 6.707314968109131
+        },
+        {
+            "frame": 156,
+            "track_id": 2,
+            "action": "SENTADO",
+            "speed": 15.23748779296875
+        },
+        {
+            "frame": 160,
+            "track_id": 4,
+            "action": "EM PE",
+            "speed": 1.9386016130447388
+        },
+        {
+            "frame": 163,
+            "track_id": 7,
+            "action": "EM PE",
+            "speed": 4.649296283721924
+        },
+        {
+            "frame": 173,
+            "track_id": 4,
+            "action": "SENTADO",
+            "speed": 189.6845703125
+        },
+        {
+            "frame": 174,
+            "track_id": 4,
+            "action": "CORRENDO",
+            "speed": 200.92213439941406
+        },
+        {
+            "frame": 175,
+            "track_id": 2,
+            "action": "SENTADO",
+            "speed": 12.327664375305176
+        },
+        {
+            "frame": 178,
+            "track_id": 6,
+            "action": "CAMINHANDO",
+            "speed": 20.009803771972656
+        },
+        {
+            "frame": 179,
+            "track_id": 7,
+            "action": "SENTADO",
+            "speed": 1.405366063117981
+        },
+        {
+            "frame": 179,
+            "track_id": 1,
+            "action": "SENTADO",
+            "speed": 11.823317527770996
+        },
+        {
+            "frame": 181,
+            "track_id": 6,
+            "action": "EM PE",
+            "speed": 0.0
+        },
+        {
+            "frame": 186,
+            "track_id": 6,
+            "action": "CORRENDO",
+            "speed": 29.48126220703125
+        },
+        {
+            "frame": 188,
+            "track_id": 6,
+            "action": "CAMINHANDO",
+            "speed": 0.0
+        },
+        {
+            "frame": 192,
+            "track_id": 6,
+            "action": "MAOS PARA CIMA",
+            "speed": 5.29998779296875
+        },
+        {
+            "frame": 216,
+            "track_id": 6,
+            "action": "EM PE",
+            "speed": 0.662506103515625
+        },
+        {
+            "frame": 220,
+            "track_id": 6,
+            "action": "EM PE",
+            "speed": 50.801124572753906
+        },
+        {
+            "frame": 221,
+            "track_id": 6,
+            "action": "CAMINHANDO",
+            "speed": 28.371414184570312
+        },
+        {
+            "frame": 222,
+            "track_id": 6,
+            "action": "CAMINHANDO",
+            "speed": 23.8499755859375
+        },
+        {
+            "frame": 228,
+            "track_id": 6,
+            "action": "CORRENDO",
+            "speed": 22.193756103515625
+        },
+        {
+            "frame": 232,
+            "track_id": 6,
+            "action": "EM PE",
+            "speed": 13.25
+        },
+        {
+            "frame": 294,
+            "track_id": 6,
+            "action": "EM PE",
+            "speed": 17.887481689453125
+        },
+        {
+            "frame": 318,
+            "track_id": 6,
+            "action": "EM PE",
+            "speed": 11.925018310546875
+        },
+        {
+            "frame": 548,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 26.383804321289062
+        },
+        {
+            "frame": 549,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 47.8836784362793
+        },
+        {
+            "frame": 550,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 72.88177490234375
+        },
+        {
+            "frame": 551,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 41.71253967285156
+        },
+        {
+            "frame": 552,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 51.08126449584961
+        },
+        {
+            "frame": 553,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 53.108577728271484
+        },
+        {
+            "frame": 554,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 38.0567512512207
+        },
+        {
+            "frame": 555,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 20.20623779296875
+        },
+        {
+            "frame": 556,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 34.78125
+        },
+        {
+            "frame": 565,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 34.78125
+        },
+        {
+            "frame": 566,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 32.462493896484375
+        },
+        {
+            "frame": 569,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 2.318756103515625
+        },
+        {
+            "frame": 575,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 49.35626220703125
+        },
+        {
+            "frame": 578,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 76.539306640625
+        },
+        {
+            "frame": 579,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 41.0562858581543
+        },
+        {
+            "frame": 583,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 30.14558982849121
+        },
+        {
+            "frame": 584,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 81.82142639160156
+        },
+        {
+            "frame": 586,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 49.35626220703125
+        },
+        {
+            "frame": 587,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 20.206268310546875
+        },
+        {
+            "frame": 589,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 54.32501220703125
+        },
+        {
+            "frame": 590,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 30.4749755859375
+        },
+        {
+            "frame": 591,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 33.32637023925781
+        },
+        {
+            "frame": 592,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 52.109493255615234
+        },
+        {
+            "frame": 593,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 20.033536911010742
+        },
+        {
+            "frame": 594,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 61.152198791503906
+        },
+        {
+            "frame": 596,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 47.37220764160156
+        },
+        {
+            "frame": 597,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 147.03660583496094
+        },
+        {
+            "frame": 599,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 72.95838165283203
+        },
+        {
+            "frame": 601,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 38.474002838134766
+        },
+        {
+            "frame": 603,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 26.88690185546875
+        },
+        {
+            "frame": 604,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 51.022178649902344
+        },
+        {
+            "frame": 607,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 52.182369232177734
+        },
+        {
+            "frame": 608,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 42.45334243774414
+        },
+        {
+            "frame": 611,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 39.418731689453125
+        },
+        {
+            "frame": 614,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 43.725006103515625
+        },
+        {
+            "frame": 615,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 7.95001220703125
+        },
+        {
+            "frame": 618,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 30.475006103515625
+        },
+        {
+            "frame": 619,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 40.743743896484375
+        },
+        {
+            "frame": 622,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 38.756324768066406
+        },
+        {
+            "frame": 623,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 121.02964782714844
+        },
+        {
+            "frame": 634,
+            "track_id": 12,
+            "action": "DEITADO",
+            "speed": 83.51054382324219
+        },
+        {
+            "frame": 635,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 12.587493896484375
+        },
+        {
+            "frame": 638,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 26.83123779296875
+        },
+        {
+            "frame": 640,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 33.45623779296875
+        },
+        {
+            "frame": 641,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 33.2906494140625
+        },
+        {
+            "frame": 643,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 43.39373779296875
+        },
+        {
+            "frame": 644,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 22.524993896484375
+        },
+        {
+            "frame": 645,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 24.015625
+        },
+        {
+            "frame": 655,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 9.44061279296875
+        },
+        {
+            "frame": 659,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 31.79998779296875
+        },
+        {
+            "frame": 661,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 63.17518997192383
+        },
+        {
+            "frame": 662,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 52.06108093261719
+        },
+        {
+            "frame": 663,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 50.69060134887695
+        },
+        {
+            "frame": 664,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 28.15625
+        },
+        {
+            "frame": 665,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 38.75628662109375
+        },
+        {
+            "frame": 666,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 36.76873779296875
+        },
+        {
+            "frame": 671,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 0.33123779296875
+        },
+        {
+            "frame": 673,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 3.9749755859375
+        },
+        {
+            "frame": 676,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 46.70623779296875
+        },
+        {
+            "frame": 677,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 27.82501220703125
+        },
+        {
+            "frame": 678,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 37.43121337890625
+        },
+        {
+            "frame": 679,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 17.55621337890625
+        },
+        {
+            "frame": 680,
+            "track_id": 12,
+            "action": "CORRENDO",
+            "speed": 39.08746337890625
+        },
+        {
+            "frame": 683,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 6.293701171875
+        },
+        {
+            "frame": 687,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 7.618743896484375
+        },
+        {
+            "frame": 688,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 15.23748779296875
+        },
+        {
+            "frame": 690,
+            "track_id": 12,
+            "action": "EM PE",
+            "speed": 2.3187255859375
+        },
+        {
+            "frame": 699,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 1.987518310546875
+        },
+        {
+            "frame": 700,
+            "track_id": 12,
+            "action": "MAOS PARA CIMA",
+            "speed": 7.289577007293701
+        },
+        {
+            "frame": 705,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 15.5687255859375
+        },
+        {
+            "frame": 706,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 11.59375
+        },
+        {
+            "frame": 711,
+            "track_id": 12,
+            "action": "CAMINHANDO",
+            "speed": 25.506256103515625
+        },
+        {
+            "frame": 721,
+            "track_id": 12,
+            "action": "EM PE",
+            "speed": 0.0
+        },
+        {
+            "frame": 731,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 11.92498779296875
+        },
+        {
+            "frame": 748,
+            "track_id": 12,
+            "action": "SENTADO",
+            "speed": 10.931243896484375
+        },
+        {
+            "frame": 961,
+            "track_id": 16,
+            "action": "EM PE",
+            "speed": 3.3125
+        },
+        {
+            "frame": 979,
+            "track_id": 16,
+            "action": "EM PE",
+            "speed": 3.3125
+        },
+        {
+            "frame": 1011,
+            "track_id": 16,
+            "action": "EM PE",
+            "speed": 6.95623779296875
+        },
+        {
+            "frame": 1032,
+            "track_id": 16,
+            "action": "EM PE",
+            "speed": 9.2750244140625
+        },
+        {
+            "frame": 1092,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 7.401421546936035
+        },
+        {
+            "frame": 1107,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 7.868514537811279
+        },
+        {
+            "frame": 1108,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 73.97730255126953
+        },
+        {
+            "frame": 1118,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 72.18457794189453
+        },
+        {
+            "frame": 1141,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 76.59415435791016
+        },
+        {
+            "frame": 1158,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 76.30693817138672
+        },
+        {
+            "frame": 1163,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 4.924376010894775
+        },
+        {
+            "frame": 1175,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 36.14268493652344
+        },
+        {
+            "frame": 1177,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 166.31948852539062
+        },
+        {
+            "frame": 1182,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 162.07640075683594
+        },
+        {
+            "frame": 1183,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 90.3931655883789
+        },
+        {
+            "frame": 1184,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 97.81692504882812
+        },
+        {
+            "frame": 1185,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 93.64198303222656
+        },
+        {
+            "frame": 1188,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 87.0970230102539
+        },
+        {
+            "frame": 1189,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 89.93452453613281
+        },
+        {
+            "frame": 1195,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 90.24434661865234
+        },
+        {
+            "frame": 1197,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 73.7855224609375
+        },
+        {
+            "frame": 1208,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 96.385498046875
+        },
+        {
+            "frame": 1209,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 45.93549728393555
+        },
+        {
+            "frame": 1212,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 77.78839874267578
+        },
+        {
+            "frame": 1214,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 96.38322448730469
+        },
+        {
+            "frame": 1215,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 151.38641357421875
+        },
+        {
+            "frame": 1217,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 72.21117401123047
+        },
+        {
+            "frame": 1220,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 103.04429626464844
+        },
+        {
+            "frame": 1223,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 93.32804107666016
+        },
+        {
+            "frame": 1224,
+            "track_id": 17,
+            "action": "MAOS PARA CIMA",
+            "speed": 22.892822265625
+        },
+        {
+            "frame": 1225,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 101.60212707519531
+        },
+        {
+            "frame": 1227,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 26.15669059753418
+        },
+        {
+            "frame": 1229,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 78.65775299072266
+        },
+        {
+            "frame": 1233,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 83.71601104736328
+        },
+        {
+            "frame": 1234,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 80.99653625488281
+        },
+        {
+            "frame": 1251,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 82.21157836914062
+        },
+        {
+            "frame": 1253,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 79.99618530273438
+        },
+        {
+            "frame": 1254,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 78.83558654785156
+        },
+        {
+            "frame": 1255,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 82.0278549194336
+        },
+        {
+            "frame": 1317,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 6.625
+        },
+        {
+            "frame": 1330,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 11.262451171875
+        },
+        {
+            "frame": 1408,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 15.9000244140625
+        },
+        {
+            "frame": 1441,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 0.0
+        },
+        {
+            "frame": 1493,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 6.293731689453125
+        },
+        {
+            "frame": 1504,
+            "track_id": 17,
+            "action": "EM PE",
+            "speed": 0.0
+        },
+        {
+            "frame": 1526,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 2.649993896484375
+        },
+        {
+            "frame": 1538,
+            "track_id": 17,
+            "action": "SENTADO",
+            "speed": 9.9375
+        },
+        {
+            "frame": 1621,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 0.0
+        },
+        {
+            "frame": 1637,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 1.65625
+        },
+        {
+            "frame": 1638,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 3.3125
+        },
+        {
+            "frame": 1644,
+            "track_id": 17,
+            "action": "EM PE",
+            "speed": 1.98748779296875
+        },
+        {
+            "frame": 1657,
+            "track_id": 17,
+            "action": "DEITADO",
+            "speed": 2.31878662109375
+        },
+        {
+            "frame": 1666,
+            "track_id": 17,
+            "action": "EM PE",
+            "speed": 0.331298828125
+        },
+        {
+            "frame": 1698,
+            "track_id": 17,
+            "action": "EM PE",
+            "speed": 2.98126220703125
+        },
+        {
+            "frame": 1717,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 31.813804626464844
+        },
+        {
+            "frame": 1718,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 26.120492935180664
+        },
+        {
+            "frame": 1722,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 22.164081573486328
+        },
+        {
+            "frame": 1731,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 22.203641891479492
+        },
+        {
+            "frame": 1732,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 23.144882202148438
+        },
+        {
+            "frame": 1733,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 43.85028839111328
+        },
+        {
+            "frame": 1735,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 32.091949462890625
+        },
+        {
+            "frame": 1736,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 47.501766204833984
+        },
+        {
+            "frame": 1737,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 21.965160369873047
+        },
+        {
+            "frame": 1740,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 31.223697662353516
+        },
+        {
+            "frame": 1741,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 47.93861389160156
+        },
+        {
+            "frame": 1756,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 28.818756103515625
+        },
+        {
+            "frame": 1759,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 34.11871337890625
+        },
+        {
+            "frame": 1761,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 30.475006103515625
+        },
+        {
+            "frame": 1762,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 23.187530517578125
+        },
+        {
+            "frame": 1783,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 38.9708366394043
+        },
+        {
+            "frame": 1784,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 40.648033142089844
+        },
+        {
+            "frame": 1788,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 26.833282470703125
+        },
+        {
+            "frame": 1791,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 26.46062469482422
+        },
+        {
+            "frame": 1794,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 34.855289459228516
+        },
+        {
+            "frame": 1796,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 51.474998474121094
+        },
+        {
+            "frame": 1798,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 26.90272331237793
+        },
+        {
+            "frame": 1800,
+            "track_id": 18,
+            "action": "SENTADO",
+            "speed": 49.719505310058594
+        },
+        {
+            "frame": 1801,
+            "track_id": 18,
+            "action": "DEITADO",
+            "speed": 41.13108444213867
+        },
+        {
+            "frame": 1803,
+            "track_id": 18,
+            "action": "SENTADO",
+            "speed": 49.89464569091797
+        },
+        {
+            "frame": 1812,
+            "track_id": 18,
+            "action": "SENTADO",
+            "speed": 28.14891815185547
+        },
+        {
+            "frame": 1815,
+            "track_id": 18,
+            "action": "SENTADO",
+            "speed": 21.631038665771484
+        },
+        {
+            "frame": 1818,
+            "track_id": 18,
+            "action": "SENTADO",
+            "speed": 29.864463806152344
+        },
+        {
+            "frame": 1829,
+            "track_id": 18,
+            "action": "SENTADO",
+            "speed": 29.785362243652344
+        },
+        {
+            "frame": 1849,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 13.25
+        },
+        {
+            "frame": 1878,
+            "track_id": 21,
+            "action": "SENTADO",
+            "speed": 6.508012294769287
+        },
+        {
+            "frame": 1883,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 3.3125
+        },
+        {
+            "frame": 1891,
+            "track_id": 21,
+            "action": "SENTADO",
+            "speed": 9.646175384521484
+        },
+        {
+            "frame": 1905,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 5.631256103515625
+        },
+        {
+            "frame": 1906,
+            "track_id": 21,
+            "action": "SENTADO",
+            "speed": 4.35693883895874
+        },
+        {
+            "frame": 1911,
+            "track_id": 21,
+            "action": "SENTADO",
+            "speed": 7.44392204284668
+        },
+        {
+            "frame": 1921,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 1.32501220703125
+        },
+        {
+            "frame": 1932,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 6.95623779296875
+        },
+        {
+            "frame": 1933,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 11.92498779296875
+        },
+        {
+            "frame": 1943,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 2.98126220703125
+        },
+        {
+            "frame": 1966,
+            "track_id": 21,
+            "action": "SENTADO",
+            "speed": 16.44948387145996
+        },
+        {
+            "frame": 1970,
+            "track_id": 19,
+            "action": "SENTADO",
+            "speed": 4.63751220703125
+        },
+        {
+            "frame": 2002,
+            "track_id": 21,
+            "action": "SENTADO",
+            "speed": 9.60626220703125
+        },
+        {
+            "frame": 2025,
+            "track_id": 23,
+            "action": "SENTADO",
+            "speed": 0.33123779296875
+        },
+        {
+            "frame": 2026,
+            "track_id": 24,
+            "action": "SENTADO",
+            "speed": 9.376483917236328
+        },
+        {
+            "frame": 2036,
+            "track_id": 23,
+            "action": "EM PE",
+            "speed": 1.3657950162887573
+        },
+        {
+            "frame": 2043,
+            "track_id": 24,
+            "action": "SENTADO",
+            "speed": 3.747657299041748
+        },
+        {
+            "frame": 2044,
+            "track_id": 23,
+            "action": "EM PE",
+            "speed": 5.142385959625244
+        },
+        {
+            "frame": 2051,
+            "track_id": 23,
+            "action": "SENTADO",
+            "speed": 5.300018310546875
+        },
+        {
+            "frame": 2057,
+            "track_id": 24,
+            "action": "SENTADO",
+            "speed": 9.199261665344238
+        },
+        {
+            "frame": 2067,
+            "track_id": 23,
+            "action": "SENTADO",
+            "speed": 3.975006103515625
+        },
+        {
+            "frame": 2088,
+            "track_id": 23,
+            "action": "EM PE",
+            "speed": 7.754356861114502
+        },
+        {
+            "frame": 2116,
+            "track_id": 23,
+            "action": "EM PE",
+            "speed": 3.0539212226867676
+        },
+        {
+            "frame": 2131,
+            "track_id": 23,
+            "action": "EM PE",
+            "speed": 6.080936908721924
+        },
+        {
+            "frame": 2149,
+            "track_id": 23,
+            "action": "EM PE",
+            "speed": 6.533276557922363
+        },
+        {
+            "frame": 2151,
+            "track_id": 24,
+            "action": "SENTADO",
+            "speed": 7.112222671508789
+        },
+        {
+            "frame": 2210,
+            "track_id": 27,
+            "action": "SENTADO",
+            "speed": 1.65625
+        },
+        {
+            "frame": 2251,
+            "track_id": 27,
+            "action": "SENTADO",
+            "speed": 3.3781015872955322
+        },
+        {
+            "frame": 2281,
+            "track_id": 26,
+            "action": "SENTADO",
+            "speed": 8.011849403381348
+        },
+        {
+            "frame": 2310,
+            "track_id": 26,
+            "action": "SENTADO",
+            "speed": 4.306243896484375
+        },
+        {
+            "frame": 2321,
+            "track_id": 26,
+            "action": "SENTADO",
+            "speed": 10.78982162475586
+        },
+        {
+            "frame": 2326,
+            "track_id": 27,
+            "action": "SENTADO",
+            "speed": 2.981231689453125
+        },
+        {
+            "frame": 2333,
+            "track_id": 26,
+            "action": "SENTADO",
+            "speed": 4.924367904663086
+        },
+        {
+            "frame": 2353,
+            "track_id": 27,
+            "action": "SENTADO",
+            "speed": 2.830232620239258
+        },
+        {
+            "frame": 2390,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 2.98126220703125
+        },
+        {
+            "frame": 2398,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 14.57501220703125
+        },
+        {
+            "frame": 2407,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 3.7035012245178223
+        },
+        {
+            "frame": 2411,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 10.7847318649292
+        },
+        {
+            "frame": 2426,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 9.185846328735352
+        },
+        {
+            "frame": 2430,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 11.281963348388672
+        },
+        {
+            "frame": 2442,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 9.095808982849121
+        },
+        {
+            "frame": 2447,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 14.758267402648926
+        },
+        {
+            "frame": 2454,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 2.094999313354492
+        },
+        {
+            "frame": 2469,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 15.508706092834473
+        },
+        {
+            "frame": 2470,
+            "track_id": 31,
+            "action": "SENTADO",
+            "speed": 12.469286918640137
+        },
+        {
+            "frame": 2476,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 4.306227207183838
+        },
+        {
+            "frame": 2481,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 4.916035175323486
+        },
+        {
+            "frame": 2487,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 1.490631103515625
+        },
+        {
+            "frame": 2494,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 1.6890537738800049
+        },
+        {
+            "frame": 2496,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 12.179930686950684
+        },
+        {
+            "frame": 2501,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 3.3290231227874756
+        },
+        {
+            "frame": 2513,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 1.7838267087936401
+        },
+        {
+            "frame": 2517,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 5.46563720703125
+        },
+        {
+            "frame": 2521,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 13.070720672607422
+        },
+        {
+            "frame": 2529,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 5.860400199890137
+        },
+        {
+            "frame": 2531,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 6.828893661499023
+        },
+        {
+            "frame": 2540,
+            "track_id": 29,
+            "action": "EM PE",
+            "speed": 5.3412346839904785
+        },
+        {
+            "frame": 2543,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 13.562040328979492
+        },
+        {
+            "frame": 2560,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 9.369186401367188
+        },
+        {
+            "frame": 2581,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 47.45669937133789
+        },
+        {
+            "frame": 2581,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 48.50859069824219
+        },
+        {
+            "frame": 2581,
+            "track_id": 35,
+            "action": "SENTADO",
+            "speed": 28.20492172241211
+        },
+        {
+            "frame": 2591,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 2.095057249069214
+        },
+        {
+            "frame": 2594,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 7.495314598083496
+        },
+        {
+            "frame": 2597,
+            "track_id": 35,
+            "action": "SENTADO",
+            "speed": 3.975006103515625
+        },
+        {
+            "frame": 2608,
+            "track_id": 35,
+            "action": "SENTADO",
+            "speed": 5.0454559326171875
+        },
+        {
+            "frame": 2621,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 4.684569835662842
+        },
+        {
+            "frame": 2627,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 6.2434163093566895
+        },
+        {
+            "frame": 2660,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 7.112222671508789
+        },
+        {
+            "frame": 2663,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 6.81481409072876
+        },
+        {
+            "frame": 2674,
+            "track_id": 35,
+            "action": "SENTADO",
+            "speed": 5.860412120819092
+        },
+        {
+            "frame": 2679,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 8.458641052246094
+        },
+        {
+            "frame": 2696,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 2.8350486755371094
+        },
+        {
+            "frame": 2697,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 5.925552845001221
+        },
+        {
+            "frame": 2700,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 8.154828071594238
+        },
+        {
+            "frame": 2717,
+            "track_id": 35,
+            "action": "SENTADO",
+            "speed": 3.3780956268310547
+        },
+        {
+            "frame": 2724,
+            "track_id": 30,
+            "action": "SENTADO",
+            "speed": 8.194696426391602
+        },
+        {
+            "frame": 2741,
+            "track_id": 29,
+            "action": "SENTADO",
+            "speed": 2.756549596786499
+        },
+        {
+            "frame": 2932,
+            "track_id": 42,
+            "action": "SENTADO",
+            "speed": 6.019697666168213
+        },
+        {
+            "frame": 2955,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 15.95512866973877
+        },
+        {
+            "frame": 2968,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 3.446415901184082
+        },
+        {
+            "frame": 2971,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 6.918689250946045
+        },
+        {
+            "frame": 2986,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 26.533105850219727
+        },
+        {
+            "frame": 2987,
+            "track_id": 45,
+            "action": "SENTADO",
+            "speed": 11.504758834838867
+        },
+        {
+            "frame": 2988,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 27.235105514526367
+        },
+        {
+            "frame": 2990,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 30.034347534179688
+        },
+        {
+            "frame": 2991,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 26.118377685546875
+        },
+        {
+            "frame": 2992,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 21.34507942199707
+        },
+        {
+            "frame": 2992,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 36.677608489990234
+        },
+        {
+            "frame": 2993,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 44.551578521728516
+        },
+        {
+            "frame": 2994,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 34.6219367980957
+        },
+        {
+            "frame": 2996,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 26.14150619506836
+        },
+        {
+            "frame": 2997,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 34.71018600463867
+        },
+        {
+            "frame": 2998,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 21.483421325683594
+        },
+        {
+            "frame": 3000,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 39.22238540649414
+        },
+        {
+            "frame": 3000,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 24.11532974243164
+        },
+        {
+            "frame": 3001,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 29.24444007873535
+        },
+        {
+            "frame": 3001,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 25.57288360595703
+        },
+        {
+            "frame": 3001,
+            "track_id": 45,
+            "action": "SENTADO",
+            "speed": 17.88945770263672
+        },
+        {
+            "frame": 3002,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 31.828020095825195
+        },
+        {
+            "frame": 3004,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 21.792139053344727
+        },
+        {
+            "frame": 3005,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 22.60341453552246
+        },
+        {
+            "frame": 3005,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 21.364994049072266
+        },
+        {
+            "frame": 3009,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 20.22528076171875
+        },
+        {
+            "frame": 3020,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 28.3194637298584
+        },
+        {
+            "frame": 3023,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 28.603296279907227
+        },
+        {
+            "frame": 3031,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 23.359601974487305
+        },
+        {
+            "frame": 3031,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 27.856542587280273
+        },
+        {
+            "frame": 3034,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 27.00093650817871
+        },
+        {
+            "frame": 3037,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 24.51250457763672
+        },
+        {
+            "frame": 3040,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 24.887828826904297
+        },
+        {
+            "frame": 3059,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 36.982967376708984
+        },
+        {
+            "frame": 3061,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 32.73891067504883
+        },
+        {
+            "frame": 3078,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 36.01496887207031
+        },
+        {
+            "frame": 3079,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 34.95784378051758
+        },
+        {
+            "frame": 3081,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 32.46418762207031
+        },
+        {
+            "frame": 3091,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 31.67249870300293
+        },
+        {
+            "frame": 3091,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 23.713891983032227
+        },
+        {
+            "frame": 3095,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 33.93654251098633
+        },
+        {
+            "frame": 3096,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 28.107494354248047
+        },
+        {
+            "frame": 3096,
+            "track_id": 45,
+            "action": "SENTADO",
+            "speed": 7.832791328430176
+        },
+        {
+            "frame": 3110,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 21.163721084594727
+        },
+        {
+            "frame": 3111,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 17.22503662109375
+        },
+        {
+            "frame": 3113,
+            "track_id": 43,
+            "action": "SENTADO",
+            "speed": 22.518339157104492
+        },
+        {
+            "frame": 3121,
+            "track_id": 45,
+            "action": "EM PE",
+            "speed": 0.0
+        },
+        {
+            "frame": 3126,
+            "track_id": 44,
+            "action": "EM PE",
+            "speed": 0.33123779296875
+        },
+        {
+            "frame": 3151,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 8.066495895385742
+        },
+        {
+            "frame": 3151,
+            "track_id": 45,
+            "action": "EM PE",
+            "speed": 13.259317398071289
+        },
+        {
+            "frame": 3153,
+            "track_id": 49,
+            "action": "SENTADO",
+            "speed": 16.2447452545166
+        },
+        {
+            "frame": 3164,
+            "track_id": 44,
+            "action": "EM PE",
+            "speed": 12.889018058776855
+        },
+        {
+            "frame": 3165,
+            "track_id": 45,
+            "action": "EM PE",
+            "speed": 12.260720252990723
+        },
+        {
+            "frame": 3168,
+            "track_id": 44,
+            "action": "SENTADO",
+            "speed": 13.12520694732666
+        },
+        {
+            "frame": 3171,
+            "track_id": 48,
+            "action": "SENTADO",
+            "speed": 8.949881553649902
+        },
+        {
+            "frame": 3172,
+            "track_id": 47,
+            "action": "SENTADO",
+            "speed": 10.353870391845703
+        },
+        {
+            "frame": 3211,
+            "track_id": 47,
+            "action": "SENTADO",
+            "speed": 6.285017490386963
+        },
+        {
+            "frame": 3221,
+            "track_id": 47,
+            "action": "SENTADO",
+            "speed": 5.925580024719238
+        },
+        {
+            "frame": 3239,
+            "track_id": 49,
+            "action": "SENTADO",
+            "speed": 13.271723747253418
+        },
+        {
+            "frame": 3241,
+            "track_id": 47,
+            "action": "SENTADO",
+            "speed": 5.432923316955566
+        },
+        {
+            "frame": 3241,
+            "track_id": 51,
+            "action": "SENTADO",
+            "speed": 7.956879138946533
+        },
+        {
+            "frame": 3251,
+            "track_id": 45,
+            "action": "SENTADO",
+            "speed": 6.497626781463623
+        },
+        {
+            "frame": 3256,
+            "track_id": 45,
+            "action": "SENTADO",
+            "speed": 2.1784603595733643
+        },
+        {
+            "frame": 3270,
+            "track_id": 45,
+            "action": "EM PE",
+            "speed": 1.8218765258789062
+        },
+        {
+            "frame": 3279,
+            "track_id": 45,
+            "action": "SENTADO",
+            "speed": 10.815263748168945
+        },
+        {
+            "frame": 3291,
+            "track_id": 49,
+            "action": "SENTADO",
+            "speed": 4.459589958190918
+        },
+        {
+            "frame": 3293,
+            "track_id": 45,
+            "action": "EM PE",
+            "speed": 3.49092173576355
+        }
     ]
 }
